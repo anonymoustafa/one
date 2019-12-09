@@ -12,3 +12,4 @@
 ### useful links and resources
 
 1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [free online pdf book to learn javascript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
