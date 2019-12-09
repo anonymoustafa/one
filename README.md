@@ -8,3 +8,7 @@
 2. locally: <br> `git branch -d <branch_name>`
 
 *please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*  
+
+### useful links and resources
+
+1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
