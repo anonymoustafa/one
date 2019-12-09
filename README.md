@@ -1,3 +1,4 @@
+first, and foremost, you won't be finding and UPPERCASE word in this current document. i hate uppercase. 
 ### what i learned about using git?
 
 ##### how to host gh-pages on an orphan branch? <br>
