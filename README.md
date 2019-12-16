@@ -10,6 +10,10 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 *please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*  
 
+### linux user useful tips and trics <br>
+1. after installing *dropbox* you can run it whenever needed by running the following command in terminal: 
+    * `~/.dropbox-dist/dropboxd`
+
 ### useful links and resources
 
 1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
