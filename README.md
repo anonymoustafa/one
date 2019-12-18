@@ -18,4 +18,4 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [free online pdf book to learn javascript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-3. [tehran stock market trading farsi mql programming language manual](https://www.khanesarmaye.com/AtlasNegar/uploads/2018/01/Jozveye-Filternevisi-Dar-Dideban-Bourse.docx.pdf)
+3. [tehran stock market trading farsi mql programming language manual](https://github.com/anonymoustafa/one/raw/gh-pages/files_and_references/Jozveye-Filternevisi-Dar-Dideban-Bourse.docx.pdf)
