@@ -21,3 +21,5 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 2. [free online pdf book to learn javascript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 3. [tehran stock market trading farsi mql programming language manual](https://github.com/anonymoustafa/one/raw/gh-pages/files_and_references/Jozveye-Filternevisi-Dar-Dideban-Bourse.docx.pdf)
 4. [install gnome builder lovely ide 😍](https://wiki.gnome.org/Apps/Builder/Downloads)
+
+4. [make your own jekyll theem 👍](https://jekyllrb.com/tutorials/convert-site-to-jekyll/)
