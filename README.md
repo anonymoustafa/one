@@ -18,8 +18,16 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 ### Z. useful links and resources
 
 1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 2. [free online pdf book to learn javascript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+
 3. [tehran stock market trading farsi mql programming language manual](https://github.com/anonymoustafa/one/raw/gh-pages/files_and_references/Jozveye-Filternevisi-Dar-Dideban-Bourse.docx.pdf)
+
 4. [install gnome builder lovely ide 😍](https://wiki.gnome.org/Apps/Builder/Downloads)
 
-4. [make your own jekyll theem 👍](https://jekyllrb.com/tutorials/convert-site-to-jekyll/)
+5. [make your own jekyll theem 👍](https://jekyllrb.com/tutorials/convert-site-to-jekyll/)
+
+6. [a good reference to review features of the markdown language 📚](https://learnxinyminutes.com/docs/markdown/)
+
+7. [machine learning app development using javascript 👾](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+
