@@ -1,4 +1,4 @@
-first, and foremost, you won't be finding and UPPERCASE word in this current document. i hate uppercase. 
+first, and foremost, you won't be finding and UPPERCASE word in this current document. i hate uppercase.
 ### A. what i learned about using git?
 
 ##### how to host gh-pages on an orphan branch? <br>
@@ -8,10 +8,10 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 1. remotely: <br> `git push -d <remote_name> <branch_name>`
 2. locally: <br> `git branch -d <branch_name>`
 
-*please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*  
+*please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*
 
 ### B. linux user useful tips and trics <br>
-1. after installing *dropbox* you can run it whenever needed by running the following command in terminal: 
+1. after installing *dropbox* you can run it whenever needed by running the following command in terminal:
     * `~/.dropbox-dist/dropboxd`
 
 
@@ -31,3 +31,4 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 7. [machine learning app development using javascript 👾](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 
+8. [atom ide most powerful plug-ins list](https://www.shopify.com/partners/blog/best-atom-packages)
