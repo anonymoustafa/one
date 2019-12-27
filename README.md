@@ -32,3 +32,5 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 7. [machine learning app development using javascript 👾](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 
 8. [atom ide most powerful plug-ins list](https://www.shopify.com/partners/blog/best-atom-packages)
+
+9. [learn git in 30 minutes actually!!](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
