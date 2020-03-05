@@ -1,0 +1,80 @@
+true==function()
+{
+
+var MinPrice=function(){
+
+        var min=[ih][0].PriceMin;
+        var ipos;
+
+        for(ipos=0;ipos<59;ipos++)
+                if(min>[ih][ipos].PriceMin)
+                  min=[ih][ipos].PriceMin;
+
+        return min;
+    };
+
+var sum60days=function(){
+
+        var sum60=0;
+        var ipos;
+
+        for(ipos=0;ipos<59;ipos++)
+                sum60 = sum60 + [ih][ipos].PClosing;
+
+        return sum60;
+    };
+
+
+var sum10days=function(){
+
+        var sum10=0;
+        var ipos;
+
+        for(ipos=0;ipos<9;ipos++)
+                sum10 = sum10 + [ih][ipos].PClosing;
+
+        return sum10;
+    };
+
+
+    function Stochastic(start,day){
+        var min_min=10000000;
+        var max_max=0;
+        for(var i=start;i<day;i++){
+            var namad=[ih][i];
+            if(namad.PriceMin<min_min){
+                min_min=namad.PriceMin;
+            }
+            if(namad.PriceMax>max_max){
+                max_max=namad.PriceMax;
+            }
+        }
+        var result=([ih][start].PClosing-min_min)*100/(max_max-min_min);
+        return result.toFixed(2);
+    }
+    
+// returning main findings ==>
+(cfield0)=Stochastic(0,10);
+min = MinPrice();
+sum10 = sum10days();
+sum60 = sum60days();
+        
+    return true;
+
+}()
+
+//Define What we need ==>
+
+(cfield1)=Math.round((((ct).Buy_I_Volume/(ct).Buy_CountI)*(pc))/1000000);
+(cfield2)=Math.round(((((ct).Buy_I_Volume/(ct).Buy_CountI)*(pc))/(((ct).Sell_I_Volume/(ct).Sell_CountI)*(pc)))*100)/100;
+moving_average_60  = sum60/60;
+moving_average_10  = sum10/10;
+
+
+// Produce Final Results Criteria ==>
+(cfield0)<100 
+&& (cfield1)>0.1   
+&& (cfield2)>0.1
+// && (pl)>(pc)*1.005  
+&& moving_average_10  <= 1.15 * moving_average_60 
+&& (pl) < (tmax)
