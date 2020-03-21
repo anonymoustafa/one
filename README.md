@@ -41,6 +41,7 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 12. [emmet plugin is nice and sexy! here find a fabulus cheat sheet](https://docs.emmet.io/cheat-sheet/)
 
+14. [your wish is your command](https://archive.org/details/YourWishIsYourCommandCompleteCDAlbum/Your-Wish-Is-Your-Command-Lesson01.mp3)
+
 # d. to be read
 - [how to lose an IT job in 10 minutes](https://medium.com/hackernoon/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
-
