@@ -43,5 +43,7 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 14. [your wish is your command](https://archive.org/details/YourWishIsYourCommandCompleteCDAlbum/Your-Wish-Is-Your-Command-Lesson01.mp3)
 
+15. [9 languages to be learned](https://www.babbel.com/en/magazine/easiest-languages-for-english-speakers-to-learn)
+
 # d. to be read
 - [how to lose an IT job in 10 minutes](https://medium.com/hackernoon/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
