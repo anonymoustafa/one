@@ -1,21 +1,22 @@
-first, and foremost, you won't be finding and UPPERCASE word in this current document. i hate uppercase.
-# a. what i learned about using git?
+# A. what i learned about using git?
 
-##### how to host gh-pages on an orphan branch? <br>
-`git checkout --orphan orphan_name` <br>
+## How to host gh-pages on an orphan branch
 
-##### how to delete a branch locally and remotely?
+`git checkout --orphan orphan_name`
+
+## How to delete a branch locally and remotely
+
 1. remotely: <br> `git push -d <remote_name> <branch_name>`
 2. locally: <br> `git branch -d <branch_name>`
 
 *please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*
 
-# b. linux user useful tips and trics <br>
-1. after installing *dropbox* you can run it whenever needed by running the following command in terminal:
+# B. Linux user useful tips and trics <br>
+
+1. After installing *dropbox* you can run it whenever needed by running the following command in terminal:
     * `~/.dropbox-dist/dropboxd`
 
-
-# c. useful links and resources
+# C. useful links and resources
 
 1. [very nice markdown cheat sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -45,5 +46,10 @@ first, and foremost, you won't be finding and UPPERCASE word in this current doc
 
 15. [9 languages to be learned](https://www.babbel.com/en/magazine/easiest-languages-for-english-speakers-to-learn)
 
-# d. to be read
-- [how to lose an IT job in 10 minutes](https://medium.com/hackernoon/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
+# D. Let's learn rust-lang
+
+1. [All rust-lang data types](https://www.codingame.com/playgrounds/365/getting-started-with-rust/primitive-data-types)
+
+# E. To be read
+
+1. [how to lose an IT job in 10 minutes.](https://medium.com/hackernoon/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
