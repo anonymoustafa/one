@@ -15,6 +15,16 @@
 
 ## B. Linux user useful tips and trics <br>
 
+1. Updating NodeJS:
+
+    * Visit this topic [here✋](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) or do the following:
+
+  ```terminal
+  sudo npm cache clean -f
+  sudo npm install -g n
+  sudo n stable
+  ```
+
 1. After installing *dropbox* you can run it whenever needed by running the following command in terminal:
     * `~/.dropbox-dist/dropboxd`
 
