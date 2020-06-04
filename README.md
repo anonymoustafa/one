@@ -25,6 +25,9 @@
   sudo n stable
   ```
 
+1. Are you Iranian and want to chaeck Persian Calendar from terminal? Do the folloing:
+`curl ircal.glitch.me`
+
 1. After installing *dropbox* you can run it whenever needed by running the following command in terminal:
     * `~/.dropbox-dist/dropboxd`
 
