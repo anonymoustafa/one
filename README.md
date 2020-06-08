@@ -15,6 +15,20 @@
 
 ## B. Linux user useful tips and trics <br>
 
+1. Installing Tor Browser:
+
+   1.1. Remember: It's supposed to be extracted on a local storage with a native linux filesystem!
+
+   1.1. Use the following termial commands to extract and run the bundeled files:
+
+   ```terminal
+   tar -xvf tor-browser-linux64-9.5_en-US.tar.xz
+
+   cd tor-browser_en-US/
+  
+   ./start-tor-browser.desktop
+   ```
+
 1. Updating NodeJS:
 
     * Visit this topic [here✋](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) or do the following:
