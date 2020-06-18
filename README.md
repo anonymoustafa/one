@@ -19,7 +19,7 @@
 
    1.1. Remember: It's supposed to be extracted on a local storage with a native linux filesystem!
 
-   1.1. Use the following termial commands to extract and run the bundeled files:
+   1.2. Use the following termial commands to extract and run the bundeled files:
 
    ```terminal
    tar -xvf tor-browser-linux64-9.5_en-US.tar.xz
@@ -28,6 +28,19 @@
   
    ./start-tor-browser.desktop
    ```
+
+1. Tor command in terminal 
+`tor -f tor.conf`
+
+1. Tor filename 
+*tor.conf*
+ and tor.conf content:
+ ```terminal
+ SOCKSPort 9150
+ ```
+
+ 1. Terminal Persian calendar command
+ `curl ircal.glitch.me`
 
 1. Updating NodeJS:
 
