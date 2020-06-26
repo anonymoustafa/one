@@ -29,10 +29,10 @@
    ./start-tor-browser.desktop
    ```
 
-1. Tor command in terminal 
+1. Tor command in terminal
 `tor -f tor.conf`
 
-1. Tor filename 
+1. Tor filename
 *tor.conf*
  and tor.conf content:
  ```terminal
@@ -57,6 +57,13 @@
 
 1. After installing *dropbox* you can run it whenever needed by running the following command in terminal:
     * `~/.dropbox-dist/dropboxd`
+
+1. Gnome most comprehensive systemic parameters editor's name is *dconf editor*.
+
+### Elementary OS tips and tricks
+
+1. Install *Dimmer* to lower brightness. 
+2. The original Elementary OS terminal command: `io.elementary.terminal`
 
 ## C. useful links and resources
 
