@@ -1,19 +1,19 @@
 # Here I share whatever any software/web developer may find useful
 
-## A. What i learned about using git?
+## A. What i learned about using git
 
-### How to host gh-pages on an orphan branch?
+### How to host gh-pages on an orphan branch
 
 `git checkout --orphan orphan_name`
 
 ### How to delete a branch locally and remotely?
 
-1. remotely: <br> `git push -d <remote_name> <branch_name>`
-2. locally: <br> `git branch -d <branch_name>`
+1. remotely: `git push -d <remote_name> <branch_name>`
+2. locally: `git branch -d <branch_name>`
 
 *please be noted: you can delete a specific branch, __if and only if__ you are on another branch!*
 
-## B. Linux user useful tips and trics <br>
+## B. Linux user useful tips and trics
 
 1. Installing Tor Browser:
 
@@ -35,11 +35,10 @@
 1. Tor filename
 *tor.conf*
  and tor.conf content:
- ```terminal
- SOCKSPort 9150
- ```
 
- 1. Terminal Persian calendar command
+`SOCKSPort 9150`
+
+1. Terminal Persian calendar command
  `curl ircal.glitch.me`
 
 1. Updating NodeJS:
@@ -50,6 +49,16 @@
   sudo npm cache clean -f
   sudo npm install -g n
   sudo n stable
+  ```
+
+1. Updating Git for Ubuntu or Debian based Linuxes
+
+  ```terminall
+  sudo apt install git-all
+  sudo add-apt-repository ppa:git-core/ppa -y
+  sudo apt-get update
+  sudo apt-get install git -y
+  git --version
   ```
 
 1. Are you Iranian and want to chaeck Persian Calendar from terminal? Do the folloing:
