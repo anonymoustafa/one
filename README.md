@@ -104,6 +104,8 @@
 
 14. [9 languages to be learned](https://www.babbel.com/en/magazine/easiest-languages-for-english-speakers-to-learn)
 
+15. [VLC short-keys](https://www.vlchelp.com/vlc-media-player-shortcuts/)
+
 ## D. Let's learn rust-lang
 
 1. [All rust-lang data types](https://www.codingame.com/playgrounds/365/getting-started-with-rust/primitive-data-types)

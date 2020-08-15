@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<minder version="1.9.1">
+  <theme name="solarized_dark" label="Solarized Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Roboto 12"/>
+  </styles>
+  <drawarea x="-197.68660972826183" y="-102.59009584598243" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="706.58620689623058" posy="411.20734438113914" maxwidth="80.63287353515625" width="84" height="44" side="left" fold="false" treesize="725.99999999999989" layout="Horizontal">
+      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Mostafa</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="518.58620689623058" posy="181.20734438113823" maxwidth="200" width="88" height="44" side="left" fold="false" treesize="176" color="#859900" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Marriage</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="346.58620689623058" posy="115.20734438113834" maxwidth="200" width="72" height="44" side="left" fold="false" treesize="44" color="#859900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Zeinab</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="183.58620689623058" posy="115.20734438113834" maxwidth="200" width="63" height="44" side="left" fold="false" treesize="44" color="#859900" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Apply</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="9" posx="330.58620689623058" posy="159.20734438113823" maxwidth="200" width="88" height="44" side="left" fold="false" treesize="44" color="#859900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Mehrnaz</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="11" posx="248.58620689623058" posy="203.20734438113823" maxwidth="200" width="170" height="44" side="left" fold="false" treesize="44" color="#859900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Fatemeh Saeidpour</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="13" posx="315.58620689623058" posy="247.20734438113823" maxwidth="200" width="103" height="44" side="left" fold="false" treesize="44" color="#859900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Neda Zand</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="15" posx="565.58620689623058" posy="357.2073443811388" maxwidth="200" width="41" height="44" side="left" fold="false" treesize="176.00000000000057" color="#6c71c4" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>US</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="17" posx="391.58620689623058" posy="291.20734438113857" maxwidth="200" width="74" height="44" side="left" fold="false" treesize="44" color="#6c71c4" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Farhad</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="19" posx="408.58620689623058" posy="335.20734438113868" maxwidth="200" width="57" height="44" side="left" fold="false" treesize="44" color="#6c71c4" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>VISA</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="21" posx="137.58620689623058" posy="335.20734438113868" maxwidth="200" width="171" height="44" side="left" fold="false" treesize="44" color="#6c71c4" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Emergency Contact</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="23" posx="347.58620689623058" posy="379.20734438113891" maxwidth="200" width="118" height="44" side="left" fold="false" treesize="44" color="#6c71c4" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Qatar Airlline</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="376.58620689623058" posy="423.20734438113914" maxwidth="200" width="89" height="44" side="left" fold="false" treesize="44" color="#6c71c4" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>US Dollar</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="27" posx="534.58620689623058" posy="533.20734438113936" maxwidth="200" width="72" height="44" side="left" fold="false" treesize="176" color="#268bd2" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Money</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="29" posx="359.58620689623058" posy="511.20734438113936" maxwidth="200" width="75" height="44" side="left" fold="false" treesize="132" color="#268bd2" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Bourse</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="31" posx="164.58620689623058" posy="467.20734438113936" maxwidth="200" width="95" height="44" side="left" fold="false" treesize="44" color="#268bd2" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Bourseon</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="33" posx="97.586206896230578" posy="511.20734438113936" maxwidth="200" width="162" height="44" side="left" fold="false" treesize="44" color="#268bd2" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Tavangaran-Group</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="35" posx="179.58620689623058" posy="555.20734438113914" maxwidth="200" width="80" height="44" side="left" fold="false" treesize="44" color="#268bd2" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Futures</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="37" posx="285.58620689623058" posy="599.20734438113914" maxwidth="200" width="149" height="44" side="left" fold="false" treesize="44" color="#268bd2" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Crypto-Company</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="39" posx="111.58620689623058" posy="599.20734438113914" maxwidth="200" width="74" height="44" side="left" fold="false" treesize="44" color="#268bd2" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Bitcoin</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="41" posx="513.58620689623058" posy="687.20734438113891" maxwidth="200" width="93" height="44" side="left" fold="false" treesize="132" color="#dc322f" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Purchase</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="43" posx="316.58620689623058" posy="643.20734438113891" maxwidth="200" width="97" height="44" side="left" fold="false" treesize="44" color="#dc322f" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>System76</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="45" posx="322.58620689623058" posy="687.20734438113891" maxwidth="200" width="91" height="44" side="left" fold="false" treesize="44" color="#dc322f" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Tesla Car</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="47" posx="256.58620689623058" posy="731.20734438113891" maxwidth="200" width="157" height="44" side="left" fold="false" treesize="44" color="#dc322f" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Apple iPad Pro 12</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="49" posx="907.58620689623058" posy="225.20734438113891" maxwidth="200" width="117" height="44" side="right" fold="false" treesize="396.00000000000011" color="#b58900" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Professional</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="51" posx="1124.5862068962306" posy="159.20734438113902" maxwidth="200" width="126" height="44" side="right" fold="false" treesize="264" color="#b58900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Programming</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="100" posx="1350.5862068962306" posy="49.207344381139023" maxwidth="200" width="188" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>System-Programming</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="65" posx="1638.5862068962306" posy="49.207344381139023" maxwidth="200" width="56" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Rust</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="53" posx="1794.5862068962306" posy="49.207344381139023" maxwidth="200" width="51" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>C++</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="101" posx="1350.5862068962306" posy="181.20734438113902" maxwidth="200" width="54" height="44" side="right" fold="false" treesize="220" color="#b58900" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Web</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="59" posx="1504.5862068962306" posy="93.207344381139023" maxwidth="200" width="104" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>HTML/CSS</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="55" posx="1504.5862068962306" posy="137.20734438113902" maxwidth="200" width="40" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>JS</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="61" posx="1504.5862068962306" posy="181.20734438113902" maxwidth="200" width="119" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Angular/VUE</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="63" posx="1504.5862068962306" posy="225.20734438113902" maxwidth="200" width="51" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>SQL</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="57" posx="1504.5862068962306" posy="269.20734438113902" maxwidth="200" width="203" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>NodeJS and Server Side</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="67" posx="1124.5862068962306" posy="357.20734438113914" maxwidth="200" width="118" height="44" side="right" fold="false" treesize="132" color="#b58900" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Environment</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="69" posx="1342.5862068962306" posy="335.20734438113914" maxwidth="200" width="100" height="44" side="right" fold="false" treesize="88" color="#b58900" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Riverchain</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="71" posx="1542.5862068962306" posy="313.20734438113914" maxwidth="200" width="60" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>crust</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="73" posx="1542.5862068962306" posy="357.20734438113914" maxwidth="200" width="81" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>WATUM</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="75" posx="1342.5862068962306" posy="401.20734438113914" maxwidth="200" width="102" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Jooybaran</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="77" posx="1544.5862068962306" posy="401.20734438113914" maxwidth="200" width="150" height="44" side="right" fold="false" treesize="44" color="#b58900" colorroot="false" layout="Horizontal">
+                      <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Elahe Mahdavian</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="79" posx="890.58620689623058" posy="533.20734438113914" maxwidth="200" width="70" height="44" side="right" fold="false" treesize="220" color="#d33682" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Family</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="81" posx="1060.5862068962306" posy="445.20734438113902" maxwidth="200" width="80" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Parents</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="83" posx="1240.5862068962306" posy="445.20734438113902" maxwidth="159.877685546875" width="135" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Parents-Health</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="85" posx="1060.5862068962306" posy="489.20734438113891" maxwidth="200" width="64" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Sister</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="87" posx="1224.5862068962306" posy="489.20734438113891" maxwidth="200" width="134" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Tavangar-Child</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="89" posx="1060.5862068962306" posy="533.20734438113914" maxwidth="200" width="83" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Building</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="91" posx="1060.5862068962306" posy="577.20734438113891" maxwidth="200" width="113" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Mohammad</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="93" posx="1060.5862068962306" posy="621.20734438113891" maxwidth="200" width="117" height="44" side="right" fold="false" treesize="44" color="#d33682" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Amirhossein</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="95" posx="890.58620689623058" posy="687.20734438113891" maxwidth="200" width="70" height="44" side="right" fold="false" treesize="88" color="#2aa198" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Health</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="97" posx="1060.5862068962306" posy="665.20734438113891" maxwidth="200" width="94" height="44" side="right" fold="false" treesize="44" color="#2aa198" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Excersize</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="99" posx="1060.5862068962306" posy="709.20734438113891" maxwidth="200" width="69" height="44" side="right" fold="false" treesize="44" color="#2aa198" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="5" nodepadding="5" nodefont="Roboto 13" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Dental</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
